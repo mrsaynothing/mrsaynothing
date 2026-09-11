@@ -44,7 +44,7 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 | Project | What it is |
 |---|---|
-| [FreeChat](https://github.com/wholetthekfcgo/Freechat) | Browser-based AI workspace — BYOK, multi-provider (Z.AI + OpenRouter), encrypted on-device |
+| [FreeChat](https://github.com/mrsaynothing/Freechat) | Browser-based AI workspace — BYOK, multi-provider (Z.AI + OpenRouter), encrypted on-device |
 | [zennotes](https://github.com/morinoparticle/zennotes) | Keyboard-first Markdown notes with Vim motions — I contribute upstream |
 | Homelab | 10-service production stack on dedicated hardware — GitOps delivery, encrypted backups, zero breaches |
 
