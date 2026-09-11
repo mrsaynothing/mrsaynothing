@@ -30,7 +30,7 @@
 
 ### It looks like you're trying to view my GitHub profile.
 
-*Clippy never hurt anyone.*
+*I like deleting the code you wrote.*
 
 **Mr Say Nothing** — full-stack developer & IT support engineer in London.
 I keep live TV broadcast on air and replace manual workflows with software.
