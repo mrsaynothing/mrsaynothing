@@ -1,13 +1,25 @@
 <div align="center">
 
-```text
-$ neofetch
-wholetthekfcgo@portfolio
-------------------------
-motto : I like deleting the code you wrote
-focus : Linux Enthusiast · AI Native
-stack : TypeScript · Svelte · Python
-```
+<pre>
+      ╭──────────╮
+      │  ◉    ◉  │
+      │    __    │
+      │   /  \   │
+      │   \__/   │
+      ╰─────┬────╯
+            │
+      ╭─────┴────╮
+      │          │
+      ╰──────────╯
+            │
+      ╭─────┴────╮
+      │          │
+      ╰──────────╯
+</pre>
+
+**It looks like you're trying to view my GitHub profile.**
+
+*Would you like help with that?*
 
 </div>
 
@@ -16,6 +28,8 @@ stack : TypeScript · Svelte · Python
 I maintain live broadcast infrastructure, build production web applications, and run end-to-end systems management — comfortable where uptime is non-negotiable and where a missed incident is a failure of the whole chain, not just one screen.
 
 My work spans TypeScript/Svelte on the web, Linux and networking underneath it, and the operational discipline to keep both running at 3am as well as midday. I write tooling that replaces manual toil, and I treat observability and repeatability as core features, not afterthoughts.
+
+> I like deleting the code you wrote.
 
 ### Projects
 
