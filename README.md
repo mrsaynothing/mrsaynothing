@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Systemd Service Not Starting? How to Fix It](https://mrsaynothing.dev/en/blog/2026-09-14/systemd-service-not-starting)
+Latest: [Git Revert vs Reset: Which One Saves Your History?](https://mrsaynothing.dev/en/blog/2026-09-15/git-revert-vs-reset)
 
 </div>
