@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Git Revert vs Reset: Which One Saves Your History?](https://mrsaynothing.dev/en/blog/2026-09-15/git-revert-vs-reset)
+Latest: [Ollama Not Using GPU? Fix It on Linux, Windows and WSL](https://mrsaynothing.dev/en/blog/2026-09-16/ollama-not-using-gpu)
 
 </div>
