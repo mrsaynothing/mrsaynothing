@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Ollama Not Using GPU? Fix It on Linux, Windows and WSL](https://mrsaynothing.dev/en/blog/2026-09-16/ollama-not-using-gpu)
+Latest: [Gitignore Not Working? Here's the Real Fix](https://mrsaynothing.dev/en/blog/2026-09-17/gitignore-not-working)
 
 </div>
