@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Gitignore Not Working? Here's the Real Fix](https://mrsaynothing.dev/en/blog/2026-09-17/gitignore-not-working)
+Latest: [SSH Permission Denied (publickey): The Real Fix](https://mrsaynothing.dev/en/blog/2026-09-18/ssh-permission-denied-publickey)
 
 </div>
