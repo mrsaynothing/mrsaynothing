@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [SSH Permission Denied (publickey): The Real Fix](https://mrsaynothing.dev/en/blog/2026-09-18/ssh-permission-denied-publickey)
+Latest: [Nobody talks about RAM. Every local-LLM regret is a RAM problem.](https://mrsaynothing.dev/en/blog/2026-09-19/nobody-talks-about-ram)
 
 </div>
