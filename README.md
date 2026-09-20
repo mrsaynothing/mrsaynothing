@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Nobody talks about RAM. Every local-LLM regret is a RAM problem.](https://mrsaynothing.dev/en/blog/2026-09-19/nobody-talks-about-ram)
+Latest: [Field Notes from an Agent-Run Site #1: The Machine Ships. I Approve.](https://mrsaynothing.dev/en/blog/2026-09-20/field-notes-agent-run-site-1)
 
 </div>
