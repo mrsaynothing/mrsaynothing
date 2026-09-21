@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Field Notes from an Agent-Run Site #1: The Machine Ships. I Approve.](https://mrsaynothing.dev/en/blog/2026-09-20/field-notes-agent-run-site-1)
+Latest: [git stash a Single File Without Losing the Rest](https://mrsaynothing.dev/en/blog/2026-09-21/git-stash-single-file)
 
 </div>
