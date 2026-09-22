@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [git stash a Single File Without Losing the Rest](https://mrsaynothing.dev/en/blog/2026-09-21/git-stash-single-file)
+Latest: [128K Context on a Desktop Is a Lie. The KV Cache Ate It.](https://mrsaynothing.dev/en/blog/2026-09-22/kv-cache-ate-your-ram)
 
 </div>
