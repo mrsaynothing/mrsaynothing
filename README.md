@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Can vLLM Run GGUF? Yes — on GPU Only](https://mrsaynothing.dev/en/blog/2026-09-23/vllm-run-gguf)
+Latest: [My Agent Shipped a Post I Gated. It Stayed Live for a Day.](https://mrsaynothing.dev/en/blog/2026-09-24/agent-shipped-gated-post)
 
 </div>
