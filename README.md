@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [My Agent Shipped a Post I Gated. It Stayed Live for a Day.](https://mrsaynothing.dev/en/blog/2026-09-24/agent-shipped-gated-post)
+Latest: [Git Undo Generator: the Exact Command for Your Mess](https://mrsaynothing.dev/en/blog/2026-09-25/git-undo-generator)
 
 </div>
