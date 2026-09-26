@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Git Undo Generator: the Exact Command for Your Mess](https://mrsaynothing.dev/en/blog/2026-09-25/git-undo-generator)
+Latest: [My Newsletter Server Is 1,258 Lines of node:sqlite](https://mrsaynothing.dev/en/blog/2026-09-26/newsletter-server-node-sqlite)
 
 </div>
