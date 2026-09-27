@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [My Newsletter Server Is 1,258 Lines of node:sqlite](https://mrsaynothing.dev/en/blog/2026-09-26/newsletter-server-node-sqlite)
+Latest: [Field Notes from an Agent-Run Site #2: 125 Impressions, Zero Clicks](https://mrsaynothing.dev/en/blog/2026-09-27/field-notes-agent-run-site-2)
 
 </div>
