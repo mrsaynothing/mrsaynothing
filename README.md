@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Field Notes from an Agent-Run Site #2: 125 Impressions, Zero Clicks](https://mrsaynothing.dev/en/blog/2026-09-27/field-notes-agent-run-site-2)
+Latest: [Fatal: Not a Git Repository? The 60-Second Fix](https://mrsaynothing.dev/en/blog/2026-09-28/fatal-not-a-git-repository)
 
 </div>
