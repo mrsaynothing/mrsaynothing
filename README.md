@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Fatal: Not a Git Repository? The 60-Second Fix](https://mrsaynothing.dev/en/blog/2026-09-28/fatal-not-a-git-repository)
+Latest: [Jujutsu vs Git: the Undo Button Git Never Had](https://mrsaynothing.dev/en/blog/2026-09-29/jujutsu-vs-git)
 
 </div>
