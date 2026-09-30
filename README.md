@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Jujutsu vs Git: the Undo Button Git Never Had](https://mrsaynothing.dev/en/blog/2026-09-29/jujutsu-vs-git)
+Latest: [Ollama Connection Refused? The 60-Second Triage](https://mrsaynothing.dev/en/blog/2026-09-30/ollama-connection-refused)
 
 </div>
