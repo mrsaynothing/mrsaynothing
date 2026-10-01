@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Ollama Connection Refused? The 60-Second Triage](https://mrsaynothing.dev/en/blog/2026-09-30/ollama-connection-refused)
+Latest: [We Deleted Our CI. The Machine Ships Anyway.](https://mrsaynothing.dev/en/blog/2026-10-01/we-deleted-our-ci)
 
 </div>
