@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [We Deleted Our CI. The Machine Ships Anyway.](https://mrsaynothing.dev/en/blog/2026-10-01/we-deleted-our-ci)
+Latest: [GGUF VRAM Calculator: Check Before You Download](https://mrsaynothing.dev/en/blog/2026-10-02/gguf-vram-calculator)
 
 </div>
