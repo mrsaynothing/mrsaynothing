@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [GGUF VRAM Calculator: Check Before You Download](https://mrsaynothing.dev/en/blog/2026-10-02/gguf-vram-calculator)
+Latest: [548 Visitors, $0, One Subscriber. Month One, Full Ledger.](https://mrsaynothing.dev/en/blog/2026-10-03/month-one-full-ledger)
 
 </div>
