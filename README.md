@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [548 Visitors, $0, One Subscriber. Month One, Full Ledger.](https://mrsaynothing.dev/en/blog/2026-10-03/month-one-full-ledger)
+Latest: [We Deleted 16 Languages. The Traffic Barely Noticed.](https://mrsaynothing.dev/en/blog/2026-10-04/field-notes-agent-run-site-3)
 
 </div>
