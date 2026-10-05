@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [We Deleted 16 Languages. The Traffic Barely Noticed.](https://mrsaynothing.dev/en/blog/2026-10-04/field-notes-agent-run-site-3)
+Latest: [git merge vs rebase — decide in 10 seconds](https://mrsaynothing.dev/en/blog/2026-10-05/git-merge-vs-rebase)
 
 </div>
