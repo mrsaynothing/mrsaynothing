@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [git merge vs rebase — decide in 10 seconds](https://mrsaynothing.dev/en/blog/2026-10-05/git-merge-vs-rebase)
+Latest: [llama.cpp vs Ollama — which one should you run?](https://mrsaynothing.dev/en/blog/2026-10-06/llama-cpp-vs-ollama)
 
 </div>
