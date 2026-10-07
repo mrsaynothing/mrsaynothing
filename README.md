@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [llama.cpp vs Ollama — which one should you run?](https://mrsaynothing.dev/en/blog/2026-10-06/llama-cpp-vs-ollama)
+Latest: [Jev decision models, explained](https://mrsaynothing.dev/en/blog/2026-10-07/jev-decision-models-explained)
 
 </div>
