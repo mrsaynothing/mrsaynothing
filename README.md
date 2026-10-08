@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Jev decision models, explained](https://mrsaynothing.dev/en/blog/2026-10-07/jev-decision-models-explained)
+Latest: [What decision models can't do: six honest limits](https://mrsaynothing.dev/en/blog/2026-10-08/what-decision-models-cant-do)
 
 </div>
