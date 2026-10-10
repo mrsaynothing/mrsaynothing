@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [What decision models can't do: six honest limits](https://mrsaynothing.dev/en/blog/2026-10-08/what-decision-models-cant-do)
+Latest: [vLLM GGUF FAQ: Ten Search Questions, Answered](https://mrsaynothing.dev/en/blog/2026-10-09/vllm-gguf-faq)
 
 </div>
