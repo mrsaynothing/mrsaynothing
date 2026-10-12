@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [git undo, cancel, revert — keep the changes every time](https://mrsaynothing.dev/en/blog/2026-10-11/git-undo-keep-changes-faq)
+Latest: [Can You Run vLLM on Windows? Yes — via WSL2](https://mrsaynothing.dev/en/blog/2026-10-12/vllm-on-windows)
 
 </div>
