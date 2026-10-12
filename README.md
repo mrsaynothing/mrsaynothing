@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [vLLM GGUF FAQ: Ten Search Questions, Answered](https://mrsaynothing.dev/en/blog/2026-10-09/vllm-gguf-faq)
+Latest: [git undo, cancel, revert — keep the changes every time](https://mrsaynothing.dev/en/blog/2026-10-11/git-undo-keep-changes-faq)
 
 </div>
