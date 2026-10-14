@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Jujutsu v0.46, reviewed: what changed and who should move](https://mrsaynothing.dev/en/blog/2026-10-13/jujutsu-v046-review)
+Latest: [GGUF vs safetensors — the runtime decides, not the format](https://mrsaynothing.dev/en/blog/2026-10-14/gguf-vs-safetensors)
 
 </div>
