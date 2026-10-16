@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [GGUF vs safetensors — the runtime decides, not the format](https://mrsaynothing.dev/en/blog/2026-10-14/gguf-vs-safetensors)
+Latest: [rsync command generator — dry-run first, delete with a net](https://mrsaynothing.dev/en/blog/2026-10-16/rsync-command-generator)
 
 </div>
