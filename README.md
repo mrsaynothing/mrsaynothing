@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [rsync command generator — dry-run first, delete with a net](https://mrsaynothing.dev/en/blog/2026-10-16/rsync-command-generator)
+Latest: [Three days without a bench](https://mrsaynothing.dev/en/blog/2026-10-17/three-days-without-a-bench)
 
 </div>
