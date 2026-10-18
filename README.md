@@ -52,6 +52,6 @@ PostgreSQL · Docker · Linux · Cloudflare
 
 [Website](https://mrsaynothing.dev) · [CV](https://mrsaynothing.dev/en/cv)
 
-Latest: [Three days without a bench](https://mrsaynothing.dev/en/blog/2026-10-17/three-days-without-a-bench)
+Latest: [Can vLLM Run GGUF? Every Search Question, Answered](https://mrsaynothing.dev/en/blog/2026-10-09/vllm-gguf-faq)
 
 </div>
